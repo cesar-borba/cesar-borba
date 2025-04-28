@@ -12,7 +12,7 @@
 
 [<img src="https://skillicons.dev/icons?i=html" height="40" align="center" alt="html5" title="HTML 5">](https://www.w3schools.com/html/default.asp)
 &nbsp;
-[<img src="https://skillicons.dev/icons?i=css" height="40" align="center" alt="css3" title="CSS 3">](https://cplusplus.com/reference/)
+[<img src="https://skillicons.dev/icons?i=css" height="40" align="center" alt="css3" title="CSS 3">](https://www.w3schools.com/css/default.asp)
 &nbsp;
 [<img src="https://skillicons.dev/icons?i=python" height="40" align="center" alt="python" title="Python">](https://www.python.org/doc/)
 &nbsp;
@@ -35,13 +35,15 @@
 &nbsp;
 [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma">](https://www.figma.com/)
 &nbsp;
-[<img src="https://skillicons.dev/icons?i=linux&theme=light" height="40" align="center" alt="python" title="Python">](https://www.python.org/doc/)
+[<img src="https://skillicons.dev/icons?i=linux&theme=light" height="40" align="center" alt="linux" title="Linux">](https://www.kernel.org/)
 
-### 📖 Estudando
+### 📖 Estudos
 
 [<img src="https://skillicons.dev/icons?i=javascript" height="40" align="center" alt="javascript" title="JavaScript">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 &nbsp;
 [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=spring" alt="spring" title="Spring">](https://spring.io/)
+&nbsp;
+[<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=angular&theme=light" alt="angular" title="Angular">](https://angular.dev/)
 &nbsp;
 [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=postgres" alt="postgres" title="Postgres">](https://www.postgresql.org/)
 
