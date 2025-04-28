@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0e90ed&section=header"/>
+[![Wave Header](https://capsule-render.vercel.app/api?type=waving&height=80&color=0e90ed&section=header)](https://linktr.ee/cesar_borba)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=0e90ed&center=true&vCenter=true&width=1000&height=44&lines=Seja+bem+vindo!%F0%9F%91%8B;Sou+o+C%C3%A9sar+Borba!%F0%9F%98%81;Desenvolvedor+Web+%F0%9F%92%BB)](https://linktr.ee/cesar_borba)
 
@@ -64,5 +64,4 @@
 
 <img width="100%" src="img/night.png" style="display: block; margin-left: auto;margin-right: 10px;">
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0e90ed&section=footer"/>
+[![Wave Footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=0e90ed&section=footer)](https://linktr.ee/cesar_borba)
