@@ -55,7 +55,9 @@
 &nbsp;
 [![Meu GitHub de Cursos](https://img.shields.io/badge/Meu%20GITHUB%20DE%20CURSOS-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/borbas5)
 &nbsp;
-[![Email](https://img.shields.io/badge/E-mail-1637db?style=for-the-badge)](mailto:cesarmsborba@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1637db?style=for-the-badge)](mailto:cesarmsborba@gmail.com)
+&nbsp;
+[![Linktree](https://img.shields.io/badge/LINKTREE-%23000000.svg?style=for-the-badge&logo=linktree&logoColor=green)](https://linktr.ee/cesar_borba)
 
 
 <img width="100%" src="img/night.png" style="display: block; margin-left: auto;margin-right: 10px;">
