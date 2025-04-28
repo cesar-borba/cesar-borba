@@ -46,6 +46,8 @@
 [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=angular&theme=light" alt="angular" title="Angular">](https://angular.dev/)
 &nbsp;
 [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=postgres" alt="postgres" title="Postgres">](https://www.postgresql.org/)
+&nbsp;
+[<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=haskell&theme=light" alt="haskell" title="Haskell">](https://www.haskell.org/)
 
 ### 💼 Contato
 
