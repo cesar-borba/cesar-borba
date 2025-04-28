@@ -61,6 +61,7 @@
 &nbsp;
 [![Linktree](https://img.shields.io/badge/LINKTREE-%23000000.svg?style=for-the-badge&logo=linktree&logoColor=green)](https://linktr.ee/cesar_borba)
 
+<hr>
 
 <img width="100%" src="img/night.png" style="display: block; margin-left: auto;margin-right: 10px;">
 
