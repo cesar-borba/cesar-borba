@@ -16,7 +16,7 @@
 &nbsp;
 [<img src="https://skillicons.dev/icons?i=python" height="40" align="center" alt="python" title="Python">](https://www.python.org/doc/)
 &nbsp;
-[<img src="https://skillicons.dev/icons?i=c" height="40" align="center" alt="c-lang" title="c-lang">](https://en.cppreference.com/w/c)
+[<img src="https://skillicons.dev/icons?i=c" height="40" align="center" alt="c-lang" title="C Lang">](https://en.cppreference.com/w/c)
 &nbsp;
 [<img src="https://skillicons.dev/icons?i=cpp" height="40" align="center" alt="c-plusplus" title="C Plus Plus">](https://cplusplus.com/reference/)
 &nbsp;
@@ -36,6 +36,8 @@
 [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma">](https://www.figma.com/)
 &nbsp;
 [<img src="https://skillicons.dev/icons?i=linux&theme=light" height="40" align="center" alt="linux" title="Linux">](https://www.kernel.org/)
+&nbsp;
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" align="center" alt="excel" title="Excel">](https://support.microsoft.com/en-us/excel)
 
 ### 📖 Estudos
 
