@@ -29,7 +29,9 @@
 &nbsp;
 [<img align="center" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="intellij_idea" title="IntelliJ IDEA">](https://www.jetbrains.com/pt-br/idea/)
 &nbsp;
-[<img align="center" height="40" width="auto" src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png" alt="insomnia" title="Insomnia">](https://insomnia.rest/)
+[<img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="40" align="center" alt="eclipse" title="Eclipse">](https://eclipseide.org/)
+&nbsp;
+[<img align="center" height="40" width="auto" src="https://images.seeklogo.com/logo-png/39/2/insomnia-logo-png_seeklogo-398689.png" alt="insomnia" title="Insomnia">](https://insomnia.rest/)
 &nbsp;
 [<img align="center" height="40" width="auto" src="https://skillicons.dev/icons?i=git" alt="git" title="Git">](https://git-scm.com/)
 &nbsp;
