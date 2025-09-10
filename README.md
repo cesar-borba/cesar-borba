@@ -9,7 +9,7 @@
 <p>
 Tecnólogo em <strong>Análise e Desenvolvimento de Sistemas</strong> e estudante de <strong>Sistemas para Internet</strong>, com experiência em <strong>Desenvolvimento de Software</strong>.
 </p>
-Atuo em projetos acadêmicos e profissionais, envolvendo modelagem de <strong>banco de dados</strong>, implementação de <strong>APIs</strong> e <strong>desenvolvimento web</strong>. Sempre em busca de aprimoramento contínuo e novas tecnologias. Além disso, sempre que possível, reabasteço minhas energias com <strong>café</strong> ☕
+Atuo em projetos acadêmicos e profissionais, com foco no desenvolvimento web</strong>. Sempre em busca de aprimoramento contínuo e novas tecnologias. Além disso, sempre que possível, reabasteço minhas energias com <strong>café</strong> ☕
 </p>
 
 ### 📦 Linguagens
