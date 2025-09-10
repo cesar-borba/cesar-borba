@@ -6,7 +6,11 @@
 
 ### ✉️ Sobre mim
 
-<p>Apaixonado por tecnologia e pelo mundo dos algoritmos, sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, sempre em busca de aprimoramento contínuo em <strong>Desenvolvimento de Software</strong>. Além disso, sempre que possível reabasteço minhas energias com café ☕</p>
+<p>
+Tecnólogo em <strong>Análise e Desenvolvimento de Sistemas</strong> e estudante de <strong>Sistemas para Internet</strong>, com experiência em <strong>Desenvolvimento de Software</strong>.
+</p>
+Atuo em projetos acadêmicos e profissionais, envolvendo modelagem de <strong>banco de dados</strong>, implementação de <strong>APIs</strong> e <strong>desenvolvimento web</strong>. Sempre em busca de aprimoramento contínuo e novas tecnologias. Além disso, sempre que possível, reabasteço minhas energias com <strong>café</strong> ☕
+</p>
 
 ### 📦 Linguagens
 
@@ -57,14 +61,12 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://linkedin.com/in/cesar-borba)
 &nbsp;
-[![Meu GitHub de Cursos](https://img.shields.io/badge/Meu%20GITHUB%20DE%20CURSOS-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/borbas5)
+[![GitHub de Estudos](https://img.shields.io/badge/github%20de%20estudos-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/borbas5)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-1637db?style=for-the-badge)](mailto:cesarmsborba@gmail.com)
 &nbsp;
 [![Linktree](https://img.shields.io/badge/LINKTREE-%23000000.svg?style=for-the-badge&logo=linktree&logoColor=green)](https://linktr.ee/cesar_borba)
 
 <hr>
-
-<img width="100%" src="img/night.png" style="display: block; margin-left: auto;margin-right: 10px;">
 
 [![Wave Footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=0e90ed&section=footer)](https://linktr.ee/cesar_borba)
